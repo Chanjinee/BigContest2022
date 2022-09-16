@@ -3,7 +3,7 @@
 ## 주제 : 앱 사용성 데이터를 통한 대출신청 예측분석
 
 - 팀명 : import finda
-- 팀원 : [백찬진](https://github.com/Chanjinee) [박성수] [박준영][] [송창용](https://github.com/et007693)
+- 팀원 : [백찬진](https://github.com/Chanjinee) [박성수](https://github.com/sungsu0111) [박준영]() [송창용](https://github.com/et007693)
 - 기간 : 2022.08.30 ~ 2022.12.22
 - 분석도구 : python
 
